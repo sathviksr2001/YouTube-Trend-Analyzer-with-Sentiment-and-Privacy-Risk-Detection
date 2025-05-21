@@ -26,28 +26,6 @@ A comprehensive tool that analyzes trending YouTube videos by integrating sentim
   - YouTube Data API v3
 
 ---
-
-## 📂 Project Structure
-
-```
-youtube-trend-analyzer/
-├── app.py
-├── data/
-│   └── trending_videos.csv
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-├── utils/
-│   ├── fetch_data.py
-│   ├── sentiment_analysis.py
-│   └── privacy_risk.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## ⚙️ Installation
 
 1. **Clone the repository**:
