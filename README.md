@@ -40,19 +40,14 @@ A comprehensive tool that analyzes trending YouTube videos by integrating sentim
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Set up YouTube Data API**:
+3. **Set up YouTube Data API**:
    - Obtain an API key from the [Google Developers Console](https://console.developers.google.com/).
    - Create a `.env` file in the project root and add:
      ```
      YOUTUBE_API_KEY=your_api_key_here
      ```
 
-5. **Run the application**:
+4. **Run the application**:
    ```bash
    python app.py
    ```
