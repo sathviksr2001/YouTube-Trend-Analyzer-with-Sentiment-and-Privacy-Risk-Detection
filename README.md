@@ -87,6 +87,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Developed by **Sathvik S.R.**
 
-For any inquiries or feedback, please contact: [your.email@example.com](mailto:your.email@example.com)
+For any inquiries or feedback, please contact: [SATHVIK S.R](mailto:sathviks.r2001@gmail.com)
 
 ---
